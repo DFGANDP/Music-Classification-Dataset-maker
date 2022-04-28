@@ -1,0 +1,44 @@
+(base) C:\Users\Wojtek\Desktop\wojtek\paper_implementation\music similarity>python mix_to_segments.py
+2 HOURS Dark Clubbing Mix 'UMBRA' _ Bass House _ Dark Techno.mp3
+Dark Bass Techno _ Minimal _ Tech Noir mix 'KTULU'.mp3
+Dark Techno _ Cyberpunk _ Midtempo Mix 'BLADE'.mp3
+Dark Techno _ EBM _ Dark House Mix 'BLOOD RAVE' _ Dark Clubbing.mp3
+Dark Techno _ Industrial _ Cyberpunk Mix 'Revenge ll' _ Dark Electro.mp3
+Darksynth _ Cyberpunk _ Dark Electro Mix 'LYCAN'.mp3
+Max Minimal - Dark Techno.mp3
+Flume - Essential Mix (BBC Radio 1).mp3
+Lane 8 - Brightest Lights (Full Album Continuous Mix).mp3
+Lane 8 Summer 2021 Mixtape.mp3
+Lane 8 Winter 2021 Mixtape.mp3
+Worakls - Best of #1 (Original & Remix).mp3
+Worakls - Best of #2 (Original & Remix).mp3
+Øfdream Førever.mp3
+HARDBASS 2020-2021 Mix - 2HR Special - WIPPED - Ft. Alan Aztec _ Uamee _ DJ Blyatman.mp3
+HARDBASS ADIDAS - RUSKI POP MIX VOL. 2.mp3
+HARDBASS ADIDAS - RUSKI POP MIX VOL. 3.mp3
+Russian hardbass mix 4h.mp3
+The Best of Bach.mp3
+The Best of Beethoven.mp3
+The Best of Chopin.mp3
+The Best of Mozart.mp3
+Vivaldi - Greatest Hits.mp3
+Bob Marley   Rastaman Vibration 1976 Full Album.mp3
+Bob Marley & The Wailers - Burnin' (full album).mp3
+Bob Marley - catch a fire (1973) full album HD.mp3
+Legend  Bob Marley Cd completo Hd ( Remastered ).mp3
+Manu Chao - Clandestino (Full Album).mp3
+Matisyahu - Shake Off The Dust ARISE.mp3
+Soul Rebel - The Wailers (Full Album) (1970)(VID).mp3
+★ Manu Chao ★   Próxima Estación Esperanza  (Full Album).mp3
+Batashi @ WIXAPOL NAD JEZIOREM }) ZALEF & WYLEF ({ 11082018.mp3
+BCAAmusic _ INDECORUM _ HONEY BUNNY.mp3
+Dj Dżumaga - HAppy HArdcore HAlloween.mp3
+DJ SWETEREK IN DA  HAUS - WIXAPOL KATOWICE }) WUDZIONKA ({ 24112018.mp3
+EKWADOR 2000 PROMO MIX INDECORUM VS HONEY BUNNY FEAT MC MOSTOWIAK.mp3
+HONEY BUNNY FLAMECORE MIX.mp3
+Indecorum - Hermetic Square Exclusive Mix 3.mp3
+Wesolutko.mp3
+ZNOW LEZYSZ NA ZGONIE PO PAVULONIE.mp3
+PRZETWARZANIE ZAJELO:
+
+4200.078137397766 s ~70min
